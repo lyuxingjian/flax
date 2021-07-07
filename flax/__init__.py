@@ -37,4 +37,10 @@ from . import core
 from . import linen
 from . import nn
 from . import optim
+from . import training
+from . import testing
+from . import serialization
+from . import struct
+from . import metrics
+from . import traverse_util
 # DO NOT REMOVE - Marker for internal logging.
