@@ -14,3 +14,5 @@
 
 # Lint as: python 3
 """Flax training utilities."""
+
+from . import *
